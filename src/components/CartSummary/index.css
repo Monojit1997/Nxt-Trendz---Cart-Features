@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.cart-summary {
+  align-self: flex-end;
+  padding: 10px;
+}
+.checkout-button {
+  background-color: #0b69ff;
+  font-weight: bold;
+  align-self: flex-end;
+  padding: 10px;
+  border-radius: 10px;
+  color: #ffffff;
+  border: none;
+  width: 100%;
+}
